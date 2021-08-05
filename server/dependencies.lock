@@ -127,7 +127,7 @@
             ]
         },
         "com.fasterxml.jackson.dataformat:jackson-dataformat-xml": {
-            "locked": "2.4.5",
+            "locked": "2.7.4",
             "transitive": [
                 "io.swagger:swagger-jaxrs"
             ]
@@ -1903,7 +1903,7 @@
             ]
         },
         "com.fasterxml.jackson.dataformat:jackson-dataformat-xml": {
-            "locked": "2.4.5",
+            "locked": "2.7.4",
             "transitive": [
                 "io.swagger:swagger-jaxrs"
             ]
@@ -3679,7 +3679,7 @@
             ]
         },
         "com.fasterxml.jackson.dataformat:jackson-dataformat-xml": {
-            "locked": "2.4.5",
+            "locked": "2.7.4",
             "transitive": [
                 "io.swagger:swagger-jaxrs"
             ]
@@ -5455,7 +5455,7 @@
             ]
         },
         "com.fasterxml.jackson.dataformat:jackson-dataformat-xml": {
-            "locked": "2.4.5",
+            "locked": "2.7.4",
             "transitive": [
                 "io.swagger:swagger-jaxrs"
             ]
@@ -8299,7 +8299,7 @@
             ]
         },
         "com.fasterxml.jackson.dataformat:jackson-dataformat-xml": {
-            "locked": "2.4.5",
+            "locked": "2.7.4",
             "transitive": [
                 "io.swagger:swagger-jaxrs"
             ]
@@ -10075,7 +10075,7 @@
             ]
         },
         "com.fasterxml.jackson.dataformat:jackson-dataformat-xml": {
-            "locked": "2.4.5",
+            "locked": "2.7.4",
             "transitive": [
                 "io.swagger:swagger-jaxrs"
             ]
@@ -11851,7 +11851,7 @@
             ]
         },
         "com.fasterxml.jackson.dataformat:jackson-dataformat-xml": {
-            "locked": "2.4.5",
+            "locked": "2.7.4",
             "transitive": [
                 "io.swagger:swagger-jaxrs"
             ]
@@ -13594,7 +13594,7 @@
             ]
         },
         "com.fasterxml.jackson.dataformat:jackson-dataformat-xml": {
-            "locked": "2.4.5",
+            "locked": "2.7.4",
             "transitive": [
                 "io.swagger:swagger-jaxrs"
             ]
@@ -15392,7 +15392,7 @@
             ]
         },
         "com.fasterxml.jackson.dataformat:jackson-dataformat-xml": {
-            "locked": "2.4.5",
+            "locked": "2.7.4",
             "transitive": [
                 "io.swagger:swagger-jaxrs"
             ]
@@ -17190,7 +17190,7 @@
             ]
         },
         "com.fasterxml.jackson.dataformat:jackson-dataformat-xml": {
-            "locked": "2.4.5",
+            "locked": "2.7.4",
             "transitive": [
                 "io.swagger:swagger-jaxrs"
             ]
@@ -18988,7 +18988,7 @@
             ]
         },
         "com.fasterxml.jackson.dataformat:jackson-dataformat-xml": {
-            "locked": "2.4.5",
+            "locked": "2.7.4",
             "transitive": [
                 "io.swagger:swagger-jaxrs"
             ]
