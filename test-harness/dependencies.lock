@@ -844,7 +844,7 @@
             ]
         },
         "com.thoughtworks.xstream:xstream": {
-            "locked": "1.4.10",
+            "locked": "1.4.11",
             "transitive": [
                 "com.netflix.eureka:eureka-client"
             ]
@@ -2810,7 +2810,7 @@
             ]
         },
         "com.thoughtworks.xstream:xstream": {
-            "locked": "1.4.10",
+            "locked": "1.4.11",
             "transitive": [
                 "com.netflix.eureka:eureka-client"
             ]
@@ -4776,7 +4776,7 @@
             ]
         },
         "com.thoughtworks.xstream:xstream": {
-            "locked": "1.4.10",
+            "locked": "1.4.11",
             "transitive": [
                 "com.netflix.eureka:eureka-client"
             ]
@@ -6742,7 +6742,7 @@
             ]
         },
         "com.thoughtworks.xstream:xstream": {
-            "locked": "1.4.10",
+            "locked": "1.4.11",
             "transitive": [
                 "com.netflix.eureka:eureka-client"
             ]
